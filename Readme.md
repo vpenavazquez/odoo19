@@ -1,4 +1,4 @@
-## 1 Bases de datos: Captura del gestor con demo y primo, e idioma y país con que se crearon.
+## 1 Bases de datos: Captura del gesto![img.png](img.png)r con demo y primo, e idioma y país con que se crearon.
 
 ![img_27.png](src/imagenes/img_27.png)
 
@@ -56,36 +56,36 @@ Servicio a 40€ y 21% de impuestos (se que tenia que llamarse Hora de soporte, 
 
 # 4. Ventas:
 
-![img_15.png](src/imagenes/img_15.png)
+![img_33.png](src/imagenes/img_33.png)
 
 Presupuesto
 
-![img_16.png](src/imagenes/img_16.png)
+![img_34.png](src/imagenes/img_34.png)
 
 Enviado
 
 # 5 Facturacion:
 
-![img_17.png](src/imagenes/img_17.png)
+![img_35.png](src/imagenes/img_35.png)
 
 Factura
 
+![img_36.png](src/imagenes/img_36.png)
 
-![img_18.png](src/imagenes/img_18.png)
 
 PDF
 
-![img_19.png](src/imagenes/img_19.png)
+![img_37.png](src/imagenes/img_37.png)
 
 Pagada
 
 # 6 Facturacion
 
-![img_20.png](src/imagenes/img_20.png)
+![img_38.png](src/imagenes/img_38.png)
 
 Proveedor
 
-![img_21.png](src/imagenes/img_21.png)
+![img_37.png](src/imagenes/img_37.png)
 
 Cliente
 
@@ -99,7 +99,7 @@ Tambien tiene el apartado Referencias del pago
 
 # 7 Chatter
 
-![img_29.png](src/imagenes/img_29.png)
+![img_22.png](src/imagenes/img_22.png)
 
 Actividad llamada
 
